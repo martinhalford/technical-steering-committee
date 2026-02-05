@@ -2,10 +2,10 @@
 A directory to store documentation and meeting outcomes for the Polymesh Technical Steering Committee.
 
 ## Charter
-The Polymesh Technical Steering Committee is operated under the [TSC Charter](https://github.com/PolymeshAssociation/technical-steering-committee/insert-filename-here-pdf).
+The Polymesh Technical Steering Committee is operated under the [TSC Charter](https://github.com/PolymeshAssociation/technical-steering-committee/Polymesh-TSC-Charter-Final-29Jan2026).
 
 ## Meetings
-See the [Calendar of Public Meetings](https://inssert.google.calendar.link.here) for the next meeting and dial-in details.
+See the [Calendar of Public Meetings](https://insert.google.calendar.link.here) for the next meeting and dial-in details.
 
 ## Community Participation
 All meetings are open to any members of the community wishing to observe. Community observers may attend and listen but may not vote and are not members of the TSC. Observers may contribute to discussion at the discretion of the Chair, either by invitation or by politely requesting time to speak (e.g., via an agenda item, “raise hand,” or meeting chat). The Chair may limit observer participation to ensure meetings remain orderly and decisions can be made efficiently.
